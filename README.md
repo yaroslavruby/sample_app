@@ -14,9 +14,6 @@ To get started with the app, clone the repo and then install the needed gems:
 $ bundle install --without production
 ```
 heroku create
-$ git push heroku master
-
-
 
 Next, migrate the database:
 ```
