@@ -38,7 +38,11 @@
 /node_modules
 /yarn-error.log
 yarn-debug.log*
+<<<<<<< HEAD
 .yarn-integrity
 
 # Ignore db test files.
 db/test.*
+=======
+.yarn-integrity
+>>>>>>> master
